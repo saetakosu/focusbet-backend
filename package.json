@@ -9,6 +9,7 @@
   "dependencies": {
     "hono": "^4.0.0",
     "@hono/node-server": "^1.0.0",
-    "stripe": "^14.0.0"
+    "stripe": "^14.0.0",
+    "pg": "^8.11.0"
   }
 }
